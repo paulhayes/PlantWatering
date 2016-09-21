@@ -3,7 +3,6 @@
 #include <EEPROM.h>
 
 #define RXLED 17
-#define TXLED 
 #define PUMP_DURATION 5000
 bool serialMode = false;
 bool printSensor = false;
